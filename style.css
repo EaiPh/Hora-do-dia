@@ -1,0 +1,29 @@
+* {
+   text-align: center;
+   color: black;
+}
+
+body{
+   background: lightyellow;
+   
+}
+
+div {
+   width: 250px;
+   height: 250px;
+   background: white;
+   border-radius: 10px 10px 10px 10px;
+   box-shadow: silver 10px 10px 10px;
+   margin: auto;
+   margin-bottom: 15px;
+}
+
+#hournow {
+   padding: 7px;
+}
+
+img {
+   width: 150px;
+   height: 150px;
+   border-radius: 10px 10px 10px 10px;
+}
